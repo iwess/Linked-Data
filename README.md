@@ -1,3 +1,3 @@
-# Linked-Data
-# Linked-Data
-# Linked-Data
+# Linked-Data Snipeds SPARQL
+
+
